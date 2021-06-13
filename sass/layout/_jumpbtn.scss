@@ -1,0 +1,23 @@
+.back-to-top {
+    // height: 100vh;
+    position: fixed;
+    bottom: 10px;
+    right: 16px;
+    z-index: 90;
+    cursor: pointer;
+     &-icon {
+         height: 4rem;
+         width: 4rem;
+         background-color: var(--color-btn);
+         border-radius: 50%;
+         display: flex;
+         align-items: center;
+         justify-content: center;
+         transform: rotate(90deg);
+         svg {
+             height: 2rem;
+             width: 2rem;
+             fill: var(--color-white);
+         }
+     }
+}

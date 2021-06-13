@@ -1,0 +1,94 @@
+.customer-make-order {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    position: fixed;
+    background-color: rgba(0, 0, 0, 0.308);
+    height: 100vh;
+    width: 100vw;
+    z-index: 270;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    &__content {
+        height: 50rem;
+        width: 100rem;
+        background-color: var(--color-white);
+        border-radius: 5px;
+        font-family: var(--font-display);
+
+        &-pay {
+            padding-top: 1.2rem;
+            padding-left: 1.2rem;
+            h4 {
+                margin-bottom: 1rem;
+            }
+
+            &-steps {
+                display: flex;
+                justify-content: space-between;
+
+
+                &-left {
+                    padding: 2rem;
+
+                    ul {
+                        list-style: none;
+                          
+                         li:before {
+                            content: '✓';
+                          }
+
+                        li {
+                            margin-top: .5rem;
+                        }
+                    }
+                }
+
+                &-right {
+                    padding: 2rem;
+                    align-self: flex-end;
+                }
+            }
+        }
+
+    }
+}
+
+#map {
+    overflow: hidden;
+    height: 30rem;
+    background-color: var(--color-primary);
+}
+
+.hidden {
+    display: none;
+}
+
+// 589731865257-pj8129drjgseke7gc5pu80oq1p07p26s.apps.googleusercontent.com
+
+//Order Taosts
+.toasts {
+    position: fixed;
+    z-index: 380;
+    bottom: 2rem;
+    right: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    // transform: translateY(0);
+    transition: all .8s ease-out;
+}
+
+.toast {
+    background-color: var(--color-white);
+    color: var(--color-primary-main);
+    border-radius: 5px;
+    padding: 2rem 2rem;
+    font-family: 'Lato', sans-serif;
+    font-size: 1.6rem;
+    margin: 0.5rem;
+}
+

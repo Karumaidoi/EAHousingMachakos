@@ -1,0 +1,35 @@
+.section-grid {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: auto;
+    grid-gap: 6rem;
+    padding: 6rem 0;
+    justify-items: center;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+
+
+    &-feature {
+        display: flex;
+
+        &-icon {
+            margin-right: 2rem;
+            align-self: flex-start;
+        }
+
+        &-text {
+            font-family: var(--font-display);
+
+            h4 {
+                margin-bottom: 1.2rem;
+                font-size: 1.4rem;
+            }
+
+            p {
+                font-size: 1.3rem;
+                width: 90%;
+            }
+        }
+    }
+}

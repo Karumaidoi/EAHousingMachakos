@@ -1,0 +1,57 @@
+.section-products2 {
+
+    &__grid {
+        padding: 2rem;
+        display: grid;
+        grid-template-columns: repeat(4,1fr);
+        grid-gap: 30px;
+
+        &-content {
+            display: flex;
+            flex-direction: column;
+            background-color: var(--color-white);
+            // padding: 2rem 1rem;
+            border-radius: 5px;
+            overflow: hidden;
+
+            &-img {
+
+                img {
+                    width: 350px;
+                    height: 20rem;
+                }
+            }
+
+            &-details {
+                margin-top: 1rem;
+                padding: 1rem;
+                font-family: var(--font-display);
+
+                p {
+                    width: 95%;
+                    font-size: 1.2rem;
+                    margin-top: .6rem;
+                }
+            }
+
+            &-btn {
+                margin: 2.4rem .5rem;
+                padding: .5rem;
+                display: flex;
+                // justify-content: space-around;
+                align-items: center;
+                // margin: 2.4rem;
+
+                svg {
+                    height: 2rem;
+                    width: 2rem;
+                    fill: var(--color-primary-main);
+                    cursor: pointer;
+                    // align-self: flex-end;
+                    margin-left: 12rem;
+                    justify-self: flex-end;
+                }
+            }
+        }
+    }
+}

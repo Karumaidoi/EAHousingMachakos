@@ -1,0 +1,26 @@
+{
+  "name": "indexing-layout",
+  "version": "1.0.0",
+  "description": "Bestypie Design System ",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css" 
+  },
+  "keywords": [
+    "All",
+    "Bestypie",
+    "web",
+    "apps",
+    "should",
+    "have",
+    "this",
+    "design",
+    "system",
+    "entry"
+  ],
+  "author": "alex maina",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}

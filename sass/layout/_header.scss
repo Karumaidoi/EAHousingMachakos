@@ -1,0 +1,235 @@
+.header {
+    background-color: var(--color-white);
+    padding: 2rem 2rem;
+    border-bottom: .5px solid #32323210;
+
+    &-nav {
+        display: flex;
+        flex-direction: column;
+
+        &__top {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 2rem;
+
+            &-left {
+                display: flex;
+                align-items: center;
+
+                
+                &-link {
+                    display: flex;
+                    align-items: center;
+
+                    a,
+                    :link,
+                    :visited {
+                        display: flex;
+                        align-items: center;
+                        font-size: 1.4rem;
+                        text-decoration: none;
+                        color: var(--color-primary-main);
+
+                        &:not(:last-child) {
+                            margin-right: 2rem;
+                        }
+
+                        img {
+                            height: 4rem;
+                            width: 4rem;
+                            margin-right: 1.4rem;
+                        }
+
+                        div {
+                            h2 {
+                                font-size: 1.9rem;
+                                font-family: 'Josefin Sans', sans-serif;
+
+                                sup {
+                                    font-size: 0.8rem;
+                                }
+                            }
+                        }
+                    }
+                }
+
+                &-textlink {
+                    a,
+                    :link,
+                    :visited {
+                        text-decoration: none;
+                        align-self: center;
+                        margin-left: 2rem;
+                        color: var(--color-primary-main);
+                        font-family: 'Lato', sans-serif;
+                        border-left: 2px solid var(--color-primary);
+                        padding-left: 2rem;
+
+                        &:hover {
+                            color: var(--color-btn);
+                        }
+                    }
+                }
+            }
+
+            &-right {
+                display: flex;
+
+                &-links {
+
+                    ul {
+                        display: flex;
+
+                        li {
+                            list-style: none;
+                            font-size: 1.6rem;
+                            font-family: 'Lato', sans-serif;
+                            display: flex;
+                            align-items: center;
+                            margin-right: 1.4rem;
+                            // flex-direction: row;
+
+                            a,
+                            :link,
+                            :visited {
+                                text-decoration: none;
+                                font-family: 'Lato', sans-serif;
+                                font-weight: 500;
+                                font-size: 1.4rem;
+                                display: flex;
+                                align-items: center;
+                                // margin-right: 1rem;
+                                color: var(--color-primary-main);
+
+                                &:hover {
+                                    color: var(--color-black);
+                                }
+
+                            }
+
+                            svg {
+                                height: 2rem;
+                                width: 2rem;
+                            }
+
+                            span {
+                                align-self: flex-start;
+                                height: 1.8rem;
+                                width: 1.8rem;
+                                background-color: var(--color-btn);
+                                display: flex;
+                                align-items: center;
+                                color: var(--color-white);
+                                border-radius: 50%;
+                                justify-content: center;
+                                margin-left: -1rem;
+                                font-size: 1.4rem;
+                                margin-top: -0.6rem;
+                                // font-family: 'Josefin Sans', sans-serif;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+
+        &__bottom {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            // flex-direction: row;
+            
+            &-left {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                padding: 1rem;
+                border: 1px solid var(--color-primary);
+                flex-basis: 20%;
+                margin-right: 5.5rem;
+                cursor: pointer;
+                
+                &-categories {
+                    display: flex;
+                    align-items: center;
+                    justify-content: space-between;
+
+                    svg {
+                        height: 2rem;
+                        width: 2rem;
+                        margin-right: 1.4rem;
+                    }
+                }
+
+                &-dropdown {
+                    svg {
+                        height: 2rem;
+                        width: 2rem;
+                    }
+                }
+            }
+
+            &-center {
+                flex-basis: 60%;
+                display: flex;
+                align-self: center;
+
+                form {
+                    display: flex;
+                    align-items: center;
+                    height: 4rem;
+                    padding: 0 1rem;
+                    border: 2px solid var(--color-btn);
+                    flex-basis: 90%;
+                    justify-content: space-between;
+                }
+
+                &-icons {
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    svg {
+                        height: 2rem;
+                        width: 2rem;
+                        // fill: var(--color-btn);
+                        cursor: pointer;
+                        
+                        &:not(:last-child) {
+                            margin-right: 1.2rem;
+                            
+                        }
+                    }
+                }
+            }
+
+            &-right {
+                flex-basis: 20%;
+                display: flex;
+                align-self: center;
+                // margin-left: 12rem;
+                border: 1px solid var(--color-primary);
+                padding: 1rem;
+                justify-content: center;
+                cursor: pointer;
+
+
+                &-add {
+                    display: flex;
+                    align-items: center;
+
+                    svg {
+                        height: 2rem;
+                        width: 2rem;
+                        margin-right: 1.3rem;
+                    }
+                }
+            }
+
+        }
+    }
+
+
+}
+
