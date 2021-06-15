@@ -669,6 +669,16 @@ body {
             width: 2rem;
             margin-right: 1.3rem; }
 
+.categories {
+  position: relative;
+  position: fixed;
+  display: inline-block;
+  transform: translate(-50%), -50%;
+  background-color: #32323236;
+  width: 100vw;
+  height: 100vh;
+  z-index: 400; }
+
 .section-products__slider {
   height: 44rem;
   width: 95%;
