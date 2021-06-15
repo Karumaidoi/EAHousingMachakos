@@ -40,5 +40,45 @@
             }
 
         }
+
+        &-links {
+            margin-top: 6rem;
+            align-self: center;
+            ul {
+                display: flex;
+
+                li {
+                    list-style: none;
+                    margin-right: 1.8rem;
+
+                    a,
+                    :link,
+                    :visited {
+                        text-decoration: none;
+                        height: 2rem;
+                        width: 2rem;
+                        padding: 1rem 2rem;
+                        border: 3px solid var(--color-primary-main);
+                        border-radius: 100px;
+                        color: var(--color-primary-main);
+
+                        &:hover {
+                            color: var(--color-white);
+                            background-color: var(--color-primary-main);
+                        }
+                    }
+                }
+            }
+        }
+
+        &-note {
+            margin-top: 2rem;
+            align-self: center;
+            padding: 1rem;
+
+            p {
+                font-size: 1.2rem;
+            }
+        }
     }
 }
