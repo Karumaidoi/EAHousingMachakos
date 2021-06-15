@@ -30,3 +30,15 @@ document.addEventListener('keydown', function(e) {
 })
 
 
+//
+const learnLink = document.querySelector('.learn');
+
+learnLink.addEventListener('click', function(e) {
+    e.preventDefault();
+
+    const id = learnLink.getAttribute('href');
+
+    document.querySelector(id).scrollIntoView({behavior: 'smooth'})
+})
+
+

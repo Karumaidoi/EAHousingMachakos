@@ -2,6 +2,18 @@
     background-color: var(--color-white);
     padding: 5rem 0;
     font-family: var(--font-display);
+    // display: flex;
+    // align-items: center;
+
+    &__img {
+        // width: 40%;
+        height: auto;
+        margin-top: 6rem;
+
+        img {
+            width: 100%;
+        }
+    }
 
     h4 {
         text-align: center;
@@ -9,5 +21,56 @@
     }
 
 }
+
+.section-learn2 {
+    background-color: var(--color-white);
+    padding: 5rem 0;
+    font-family: var(--font-display);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    button {
+        align-self: center;
+    }
+}
+
+.apps-content {
+    display: flex;
+    flex-direction: column;
+    margin-top: 6rem;
+  }
+  
+  .icon-box2 {
+      margin-left: 1.4rem;
+    height: 2rem;
+    width: 2rem;
+    //background-color: var(--color-primary);
+    border-radius: 200px;
+    margin-bottom: 8rem;
+    //padding: 8rem;
+  
+    i {
+      font-size: 2.5rem;
+      display: inline-block;
+      background-color: var(--color-primary);
+      padding: 2rem;
+      border-radius: 200px;
+      text-align: center;
+      font-weight: 700;
+      color: var(--color-green);
+    }
+  }
+
+  .box-text {
+      h3 {
+          margin-bottom: 1rem;
+      }
+
+      p {
+          margin-bottom: 3rem;
+          line-height: 2rem;
+      }
+  }
 
 

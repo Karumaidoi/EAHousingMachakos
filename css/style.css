@@ -1374,54 +1374,37 @@ body {
   background-color: var(--color-white);
   padding: 5rem 0;
   font-family: var(--font-display); }
+  .section-learn__img {
+    height: auto;
+    margin-top: 6rem; }
+    .section-learn__img img {
+      width: 100%; }
   .section-learn h4 {
     text-align: center;
     font-size: 1.9rem; }
-  .section-learn__content {
-    margin-top: 8rem;
-    display: flex;
-    justify-content: space-between;
-    align-items: center; }
-    .section-learn__content-left {
-      display: flex;
-      flex-direction: column; }
-      .section-learn__content-left h4 {
-        align-self: flex-start;
-        margin: 1rem; }
-      .section-learn__content-left p {
-        width: 70%;
-        font-weight: 1.3rem;
-        margin-top: 1rem; }
-      .section-learn__content-left img {
-        width: 450px;
-        height: auto; }
-    .section-learn__content-right img {
-      width: 450px;
-      height: auto; }
-    .section-learn__content-right h4 {
-      justify-self: flex-end;
-      margin-bottom: 1rem; }
-    .section-learn__content-right p {
-      margin-left: 3rem;
-      width: 70%;
-      font-weight: 1.3rem;
-      margin-top: 1rem; }
 
-.section-collaboration__img img {
-  width: 80%;
-  height: auto;
-  margin-top: 6rem; }
+.section-learn2 {
+  background-color: var(--color-white);
+  padding: 5rem 0;
+  font-family: var(--font-display);
+  display: flex;
+  align-items: center;
+  justify-content: center; }
+  .section-learn2 button {
+    align-self: center; }
 
 .apps-content {
   display: flex;
-  flex-direction: column; }
+  flex-direction: column;
+  margin-top: 6rem; }
 
-.icon-box {
+.icon-box2 {
+  margin-left: 1.4rem;
   height: 2rem;
   width: 2rem;
   border-radius: 200px;
   margin-bottom: 8rem; }
-  .icon-box i {
+  .icon-box2 i {
     font-size: 2.5rem;
     display: inline-block;
     background-color: var(--color-primary);
@@ -1430,3 +1413,10 @@ body {
     text-align: center;
     font-weight: 700;
     color: var(--color-green); }
+
+.box-text h3 {
+  margin-bottom: 1rem; }
+
+.box-text p {
+  margin-bottom: 3rem;
+  line-height: 2rem; }
