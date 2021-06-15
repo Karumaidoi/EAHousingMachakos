@@ -1313,7 +1313,11 @@ body {
     flex-direction: column;
     background-color: var(--color-white);
     border-radius: 5px;
-    overflow: hidden; }
+    overflow: hidden;
+    transition: all ease-out; }
+    .section-products2__grid-content:hover {
+      transform: scale(1.0005);
+      box-shadow: 2px 2px 12px #88888846; }
     .section-products2__grid-content-img img {
       width: 350px;
       height: 20rem; }

@@ -23,4 +23,10 @@ allLinks.forEach(link => link.addEventListener('click', function(e) {
     document.querySelector(id).scrollIntoView({behavior: 'smooth'})
 }))
 
+document.addEventListener('keydown', function(e) {
+    if(e.key === 'Escape') {
+        catModal.classList.add('hidden')
+    }
+})
+
 

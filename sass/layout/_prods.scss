@@ -13,6 +13,12 @@
             // padding: 2rem 1rem;
             border-radius: 5px;
             overflow: hidden;
+            transition: all ease-out;
+
+            &:hover {
+                transform: scale(1.0005);
+                box-shadow: 2px 2px 12px #88888846;
+            }
 
             &-img {
 
