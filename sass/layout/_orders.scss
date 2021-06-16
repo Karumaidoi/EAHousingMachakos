@@ -92,3 +92,40 @@
     margin: 0.5rem;
 }
 
+//@at-root
+.upper-note {
+    display: flex;
+    background-color: var(--color-blue);
+    padding: 1rem;
+    color: var(--color-white);
+    flex-direction: column;
+    align-items: center;
+    font-family: var(--font-display);
+
+    &__icon {
+        align-self: flex-end;
+        color: var(--color-white);
+        margin-top: -4rem;
+        padding: 1rem;
+        right: 1rem;
+        cursor: pointer;
+    }
+
+    h4 {
+        margin-bottom: 1rem;
+    }
+
+    p {
+        a,
+        :link,
+        :visited {
+            text-decoration: underline;
+            color: var(--color-white);
+
+            &:hover {
+                text-decoration: none;
+            }
+        }
+    }
+}
+

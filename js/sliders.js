@@ -40,7 +40,7 @@ btnLeft.addEventListener('click', function() {
 })
 
 document.addEventListener('keydown', function(e) {
-    console.log(e.key);
+    // console.log(e.key);
 
     if(currSlide === maxSlide - 1) {
         currSlide = 0;

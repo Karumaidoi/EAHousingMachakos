@@ -23,11 +23,13 @@ btnsInt.forEach(btn => btn.addEventListener('click', function(e) {
 
 cancelBtn.addEventListener('click', function(e) {
     btnsInt.forEach(btn => btn.classList.remove('btn-active'))
+    textArea.value = '';
 })
 
 closeBtn.addEventListener('click', function() {
     modal.classList.add('hidden')
     textArea.value = '';
+    // console.log(textArea.value);
 })
 
 btnOpen.addEventListener('click', function() {
