@@ -953,7 +953,7 @@ body {
       display: flex;
       flex-direction: column;
       border-top: 4px solid var(--color-white);
-      top: 50%;
+      top: 30%;
       left: 50%;
       transform: translate(-50%, -50%);
       background-color: var(--color-primary-main);
@@ -973,6 +973,18 @@ body {
         position: absolute;
         top: 100%;
         left: 50%; }
+
+.textarea {
+  outline: none;
+  border: 3px solid #0c5bd154;
+  border-radius: 5px;
+  resize: none;
+  padding: 1rem;
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  font-weight: 700; }
+  .textarea:focus {
+    border: 3px solid #0c5bd1; }
 
 .hidden {
   display: none; }

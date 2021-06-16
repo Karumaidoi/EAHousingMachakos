@@ -4,6 +4,7 @@ const cancelBtn = document.querySelector('.btn-cancel');
 const btnsInt = document.querySelectorAll('.int');
 const modal = document.querySelector('.prod-request-modal');
 const btnFind = document.querySelector('.btn-find');
+const textArea = document.querySelector('.textarea');
 
 const closeModal = document.querySelector('.align');
 
@@ -26,6 +27,7 @@ cancelBtn.addEventListener('click', function(e) {
 
 closeBtn.addEventListener('click', function() {
     modal.classList.add('hidden')
+    textArea.value = '';
 })
 
 btnOpen.addEventListener('click', function() {
