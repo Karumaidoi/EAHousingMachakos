@@ -1,6 +1,6 @@
 const textarea = document.querySelector('.textarea');
 
-CKEDITOR.replace(textarea);
+// CKEDITOR.replace(textarea);
 
 //
 const btn = document.querySelectorAll('.section-products2__grid-content-btn');
