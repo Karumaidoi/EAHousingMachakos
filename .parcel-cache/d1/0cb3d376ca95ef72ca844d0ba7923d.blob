@@ -1,0 +1,581 @@
+<!DOCTYPE html>
+<html lang="en" manifest="">
+<head>
+
+    <!--replace with any of your main title of your webpage-->
+
+    <title>East Africa housing Company &mdash; An eCommerce for all your housing requirements</title>
+
+    <!--metadata content should appear here-->
+    <meta charset="UTF-8">
+    <meta name="description" content="Coding Spree for web developers">
+    <meta name="Keywords" content="Coding, Developement, Coding Spree">
+    <meta name="google-signin-client_id" content="589731865257-pj8129drjgseke7gc5pu80oq1p07p26s.apps.googleusercontent.com">
+
+    <!--replace with any of your fontface your design is going to use! Strictly from Google Fonts-->
+
+    <link rel="preconnect" href="83f23abed97581a765d839ac7164fb52">
+        <link href="dd5c0a376195bd0da6a10e78058a957b" rel="stylesheet"><link rel="preconnect" href="83f23abed97581a765d839ac7164fb52">
+        <link href="0ef2f51cfb4c62b42f345a79f7483820" rel="stylesheet"> 
+        <style data-parcel-key="a085e7cfa08d06e896dda3c0edb69b93">
+            @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+            </style> 
+
+<link rel="preconnect" href="83f23abed97581a765d839ac7164fb52">
+<link href="39209091c6b4c8f0c8f35be2f1106ebb" rel="stylesheet">
+    
+
+    <!--replace with any of your icomoon icons path folder-->
+    <link rel="stylesheet" href="9d707a79a0605dd2490d266205fa8c5c">
+
+    <script src="2c2b108d03926b597f662106badaab49"></script>
+    <link src="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="c8794eb96ea6a0c0bee0213bdbc59acf" rel="stylesheet" type="text/css">
+
+    <script src="77113d17d8d5ca8bc7601874fe84b191"></script>
+    <script src="ea98033d249bade208f78e4944fe6338" crossorigin="anonymous"></script>
+
+
+
+    <!--replace with any of your shortcut icon-->
+    <link rel="shortcut icon" type="img/png" href="02d844e6f10e3efd0a410e717c367822">
+
+    <!--replace with any of your css layout folder/path-->
+    <link rel="stylesheet" href="0664fbdcb1626a8390c1163dba79ae50">
+
+    <link rel="stylesheet" href="6c12eefdac363b81cd70bbd5c351ebdb" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin="">
+    <script defer="" src="669e9793bd2cdcb4e010740a5e6b7f4b" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
+    <script defer="" src="1b7e2c122f57984251a74679aa12d251"></script>
+
+
+</head>
+<body>
+    <div class="toasts anim"></div>
+
+    <div class="back-to-top">
+        <div class="back-to-top-icon">
+            <svg>
+                <use xlink:href="08584cf2827ac4e6d4c9c9de0c027555"></use>
+            </svg>
+        </div>
+    </div>
+
+    <header class="header" id="header">
+        <div class="header-nav">
+            <div class="header-nav__top">
+                <div class="header-nav__top-left">
+                    <div class="header-nav__top-left-link">
+                        <a href="296b5f3742a93a5b58b87a30a4c40dfa">
+                            <img src="8b1bd4c24c3db5eb8e2d05e7fa4304bf" alt="East Africa Homes">
+                            <div class="content">
+                                <h2 class="heading-secondary">Made for East Africa<sup>TM</sup></h2>
+                                <p>connecting buyers with East African Suppliers</p>
+                            </div>  
+                        </a>
+                    </div>
+                    <!-- <div class="header-nav__top-left-textlink">
+                        <a href="#section--3" class="secLink">Product Directory</a>
+                    </div> -->
+                </div>
+
+                <div class="header-nav__top-right">
+                    <div class="header-nav__top-right-links">
+                        <ul>
+                            <li class="signin">
+                                <a href="#">Sign in</a>
+                            </li>
+                            <li class="joinfree">
+                                <a href="#">Join Free</a>
+                            </li>
+                            <li>
+                                <a href="024f603f1d3a39434d975d7852948330">For Buyer</a>
+                                <!-- <svg>
+                                    <use xlink:href="/css/sprite.svg#icon-arrow_drop_down"></use>
+                                </svg> -->
+                            </li>
+                            <li>
+                                <a href="024f603f1d3a39434d975d7852948330">For Suppliers</a>
+                                <!-- <svg>
+                                    <use xlink:href="/css/sprite.svg#icon-arrow_drop_down"></use>
+                                </svg> -->
+                            </li>
+
+                            <li>
+                                <a href="#" class="prods">
+                                <svg>
+                                    <use xlink:href="c036a21ff8bcf324ee62e3997bf4b643"></use>
+                                </svg>
+                                </a>
+                                <span>0</span>
+
+                            </li>
+                            <li>
+                               <a href="899f64208385bb42a9fefe728f772142" target="_blank" rel="noopener noreferrer">
+                                <svg>
+                                    <use xlink:href="f418ba52fa63c5222f33c48aa3350d4b"></use>
+                                </svg>
+                                <p>Get Apps</p>
+                               </a> 
+                            </li>
+
+                            <li>
+                                <a href="#">English</a>
+                                <!-- <svg>
+                                    <use xlink:href="/css/sprite.svg#icon-arrow_drop_down"></use>
+                                </svg> -->
+                            </li>
+                            
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="header-nav__bottom">
+                <div class="header-nav__bottom-left">
+                    
+                        <div class="header-nav__bottom-left-categories">
+                            <svg>
+                                <use xlink:href="20d176a7281c141a7a0dcc7d40aca6e5"></use>
+                            </svg>
+                            <p>Categories</p>
+                        </div>
+                            <svg class="icon">
+                                <use xlink:href="51aa334889e43074cab9a53af441fbfa"></use>
+                            </svg>
+                </div>
+                
+                <div class="header-nav__bottom-center">
+                    <form action="#">
+                        <div class="left">
+                            <p>Products</p>
+                            <!-- <svg>
+                                <use xlink:href="/css/sprite.svg#icon-arrow_drop_down"></use>
+                            </svg> -->
+                        </div>
+                        <div class="input">
+                            <input type="text" placeholder="Enter a keyword to search a product">
+                        </div>
+                        
+                        <div class="header-nav__bottom-center-icons">
+                            <svg>
+                                <use xlink:href="dcceec5cae1180186855dbfb44a4c9cc"></use>
+                            </svg>
+                            <div class="icon-box">
+                                <svg class="icon-search">
+                                    <use xlink:href="dd84e6721e5cbeeb469e95a724e02e39"></use>
+                                </svg>
+                            </div>
+                        </div>
+                            
+                    </form>
+
+                   </div>
+
+                   <div class="header-nav__bottom-right">
+                    <div class="header-nav__bottom-right-add">
+                        <svg>
+                            <use xlink:href="c86552fded478dd38e9121746503affa"></use>
+                        </svg>
+                        <p>Post Product Request</p>
+                    </div>
+                </div>
+                    </div>
+                </div>
+    </header>
+
+    <section class="section-learn">
+        <h4>Learn from our experts</h4>
+        <div class="row">
+            <div class="col-1-of-2">
+                <div class="section-learn__img">
+                    <img src="26efff6a970c90266749c7fa65374579" alt="stats" class="image-coll">
+                </div>
+            </div>
+            <div class="col-1-of-2">
+                <div class="apps-content">
+                    <div class="icon-box2">
+                        <i class="icon-basic-world"></i>
+                    </div>
+                    <div class="box-text">
+                        <h3 class="heading-tertially">
+                            Smart homes for both hotels and indoors handlers
+                        </h3>
+                        <p class="long-copy u-mg-top">
+                            Drive integrates seamlessly with Docs, Sheets, and Slides, cloud-native apps that enable your team to collaborate effectively in real time. Create and share content 
+                            with your team on Day 1, with no need to migrate from existing tools.
+                        </p>
+                    </div>
+
+                    <div class="box-btn">
+                        <a href="296b5f3742a93a5b58b87a30a4c40dfa">
+                            <button class="btn btn-full">Learn More &rarr;</button>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            </div>
+        
+    </section>
+
+    <section class="section-learn">
+        <!-- <h4>Learn from our experts</h4> -->
+        <div class="row">
+            <div class="col-1-of-2">
+                <div class="apps-content">
+                    <div class="icon-box2">
+                        <i class="icon-basic-alarm"></i>
+                    </div>
+                    <div class="box-text">
+                        <h3 class="heading-tertially">
+                           Super Charge property CMS Management
+                        </h3>
+                        <p class="long-copy u-mg-top">
+                            Drive integrates seamlessly with Docs, Sheets, and Slides, cloud-native apps that enable your team to collaborate effectively in real time. Create and share content 
+                            with your team on Day 1, with no need to migrate from existing tools.
+                        </p>
+                    </div>
+
+                    <div class="box-btn">
+                        <a href="296b5f3742a93a5b58b87a30a4c40dfa">
+                            <button class="btn btn-full">Learn More &rarr;</button>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-1-of-2">
+                <div class="section-learn__img">
+                    <img src="94ddaa175e01256a7e1e6e371977768c" alt="stats" class="image-coll">
+                </div>
+            </div>
+            
+            </div>
+        
+    </section>
+
+    <section class="section-learn">
+        <!-- <h4>Learn from our experts</h4> -->
+        <div class="row">
+            <div class="col-1-of-2">
+                <div class="section-learn__img">
+                    <img src="e6225e7f17cd9c90a7edc5394dbe82a7" alt="stats" class="image-coll">
+                </div>
+            </div>
+            <div class="col-1-of-2">
+                <div class="apps-content">
+                    <div class="icon-box2">
+                        <i class="icon-basic-home"></i>
+                    </div>
+                    <div class="box-text">
+                        <h3 class="heading-tertially">
+                            Collective homemade affairs and management
+                        </h3>
+                        <p class="long-copy u-mg-top">
+                            Drive integrates seamlessly with Docs, Sheets, and Slides, cloud-native apps that enable your team to collaborate effectively in real time. Create and share content 
+                            with your team on Day 1, with no need to migrate from existing tools.
+                        </p>
+                    </div>
+
+                    <div class="box-btn">
+                        <a href="296b5f3742a93a5b58b87a30a4c40dfa">
+                            <button class="btn btn-full">Learn More &rarr;</button>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            </div>
+        
+    </section>
+
+    <section class="section-learn">
+        <!-- <h4>Learn from our experts</h4> -->
+        <div class="row">
+            <div class="col-1-of-2">
+                <div class="apps-content">
+                    <div class="icon-box2">
+                        <i class="icon-basic-diamonds"></i>
+                    </div>
+                    <div class="box-text">
+                        <h3 class="heading-tertially">
+                            Sound,Clear, and Proffesional design
+                        </h3>
+                        <p class="long-copy u-mg-top">
+                            Drive integrates seamlessly with Docs, Sheets, and Slides, cloud-native apps that enable your team to collaborate effectively in real time. Create and share content 
+                            with your team on Day 1, with no need to migrate from existing tools.
+                        </p>
+                    </div>
+
+                    <div class="box-btn">
+                        <a href="296b5f3742a93a5b58b87a30a4c40dfa">
+                            <button class="btn btn-full">Learn More &rarr;</button>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-1-of-2">
+                <div class="section-learn__img">
+                    <img src="99c3241970ece302d6994395502613b9" alt="stats" class="image-coll">
+                </div>
+            </div>
+            
+            </div>
+        
+    </section>
+
+    <section class="section-learn2">
+        <a href="024f603f1d3a39434d975d7852948330">
+        <button class="btn btn-find">Go Smart Now</button>
+        </a>
+    </section>
+
+    <section class="section-faq" id="faq">
+        <h4>Questions?We have answers</h4>
+        <div class="section-faq__content">
+            <div class="section-faq__content-note">
+                <h4>How can i start using EA Housings</h4>
+                <p>If you purchase your membership directly from the EA website, it begins when the Adobe 
+                Store fulfils the order. Get started by signing in to your account.</p>
+            </div>
+
+            <div class="section-faq__content-note">
+                <h4>Can I share any kind of files from EA Cloud?</h4>
+                <p>There are no restrictions on the file types you can share from EA Cloud.</p>
+            </div>
+
+            <div class="section-faq__content-note">
+                <h4>What types of files can I store in EA Cloud?</h4>
+                <p>There are no restrictions on the file types you can store in EA Cloud.</p>
+            </div>
+
+            <div class="section-faq__content-note">
+                <h4>How do I access my EA Cloud apps?</h4>
+                <p>
+                    Applications are installed and run on your desktop, just like any other desktop application. The first time you download any of the individual EA apps, you automatically download EA Cloud for your desktop. You use the EA Cloud desktop app to access, 
+                    download and update any of the individual EA apps.
+                </p>
+            </div>
+
+            <div class="section-faq__content-note">
+                <h4>What’s included in EA Cloud for teams?</h4>
+                <p>
+                    EA Cloud for teams gives you access to the complete set of Adobe EA apps plus exclusive features designed to help your team get work done. You get a web-based Admin Console that makes it easy to manage licences, 
+                    advanced 24/7 tech support and 1:1 Expert Services sessions.
+                </p>
+            </div>
+        </div>
+        <a href="#">see all FAQ's</a>  
+    </section>
+
+    <section class="section-EA">
+        <div class="section-EA__content">
+            <div class="section-EA__content-logo">
+                <img src="8b1bd4c24c3db5eb8e2d05e7fa4304bf" alt="cevo">
+            </div>
+            <h4>Housing Products for East Africa</h4>
+            <p>
+                    EA Cloud for teams gives you access to the complete set of Adobe EA apps plus exclusive features designed to help your team get work done. You get a web-based Admin Console that makes it easy to manage licences, 
+                    advanced 24/7 tech support and 1:1 Expert Services sessions.
+            </p>
+            <a href="296b5f3742a93a5b58b87a30a4c40dfa" class="plans">see EA plans & pricings</a>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="footer-home">
+            <a href="#header" class="home">
+            <svg class="iconplan2">
+                <use xlink:href="951a0fb46bc1e85a639cea1b23bb2a30"></use>
+            </svg>
+            Home</a>
+        </div>
+        <h4>Meet our Curators to join our community</h4>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sint vero quae temporibus debitis aliquid repellendus necessitatibus officiis nam nostrum suscipit, 
+             amet id architecto facere?
+        </p>
+        <div class="footer__links">
+            <ul>
+                <li>
+                    <a href="#header" class="learn">Learn</a>
+                </li>
+                <li>
+                    <a href="#faq" class="faq">FAQ</a>
+                </li>
+                <!-- <li>
+                    <a href="#reviews" class="reviews">Reviews</a>
+                </li> -->
+                <li>
+                    <a href="739a40f181b164b267d8d43b7dba1a9f" target="_blank" rel="noopener noreferrer">Blog</a>
+                </li>
+                <li>
+                    <a href="#">Privacy Policy</a>
+                </li>
+            </ul>
+        </div>
+        <p>&copy; copyright East Africa Housing Limited 2021. All Rights Reserved.</p>
+    </footer>
+
+
+    <div class="prod-request-modal hidden">
+        <div class="prod-request-modal__content">
+            <i class="fa fa-times closeBtn" aria-hidden="true"></i>
+            <h4>Request your product</h4>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. At earum obcaecati 
+                molestiae accusantium facilis</p>
+                <textarea name="textarea" id="" cols="10" rows="2" class="textarea" style="430b1b96c3e851931b2fa62a3a731287"></textarea>
+
+            <div class="prod-request-modal__content-find">
+                <h4>Find, Match and Grab</h4>
+                <p><em>Help siri to choose and order your products according
+                    to your interests.
+                </em></p>
+                <div class="prod-request-modal__content-find-btns">
+                    <button class="btn int">Terrazo</button>
+                    <button class="btn int">Tiles</button>
+                    <button class="btn int">Black cushoty</button>
+                    <button class="btn int">Mumble</button>
+                    <button class="btn int">Timber</button>
+                    <button class="btn int">Aluminium Cushoty</button>
+                    <button class="btn int">Black Mamba</button>
+                </div>
+            </div>
+
+            <div class="prod-request-modal__content-spinner hidden">
+                <i class="fas fa-spinner fa-spin"></i>
+                <p>Please Wait</p>
+            </div>
+            <div class="prod-request-modal__content-btn">
+                <button class="btn btn-cancel">Cancel</button>
+                <button class="btn-find">Find Order</button>
+            </div>
+
+            <div class="prod-request-modal__content-alert none">
+                <h4>We will contact you soon about the product details</h4>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque nostrum adipisci minima fuga dignissimos iusto sed nobis, deserunt exercitationem.</p>
+                <button class="btn-find align">Ok, Got it</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="sign-in-modal sendaway">
+        <div class="sign-in-modal__content transformx">
+             <i class="fa fa-times cancel" aria-hidden="true"></i>
+             <p>Sign in to</p>
+             <div class="sign-in-modal__content-comp">
+                 <img src="8b1bd4c24c3db5eb8e2d05e7fa4304bf" alt="East Africa">
+                 <h4>EA Company</h4>
+             </div>
+             <div class="sign-in-modal__content-note">
+                 <p>Log in to save your progress. We won't post anything anywhere.</p>
+             </div>
+             <div class="sign-in-modal__content-accounts">
+                <button class="btn" data-onsuccess="onSignIn">Sign in with Google</button>
+                <!-- <button class="g-signin2" data-onsuccess="onSignIn">Google</button> -->
+                <button class="btn">Sign in with Facebook</button>
+                <button class="btn">Anonymous account</button>
+                <p class="policy">By signing in you agree to our <span>terms, conditions</span> and <span>privacy policy</span></p>
+             </div>
+        </div>
+    </div>
+
+
+    <div class="customer-support usecase">
+        <div class="customer-support__content">
+            <div class="customer-support__content-top">
+                <div class="customer-support__content-top-left">
+                    <img src="9c0c53d26fe617db279ff812022fd9d4" alt="Cevo">
+                    <p>EA Housing Limited</p>
+                </div>
+                <svg class="iconDown">
+                    <use xlink:href="08584cf2827ac4e6d4c9c9de0c027555"></use>
+                </svg>
+            </div>
+
+                <div class="customer-support__content-center">
+                    <p>Welcome!</p>
+                    <h3>How can we help you?</h3>
+                </div>
+
+                <div class="customer-support__content-help border">
+                    <h4>Account or product support</h4>
+                    <p>Please sign in. We'll find you to connect you to the right team.</p>
+
+                    <button class="btn-help">Get started</button>
+                </div>
+
+                <div class="customer-support__content-help">
+                    <h4>Account or product support</h4>
+                    <p>Please sign in. We'll find you to connect you to the right team.</p>
+
+                    <button class="btn-help">Get started</button>
+                </div>
+                <a href="024f603f1d3a39434d975d7852948330">Need help with any of our products?</a>
+        </div>
+    </div>
+
+    <div class="customer-make-order hidden">    
+        <div class="customer-make-order__content">
+            <div id="map"></div>
+            <div class="customer-make-order__content-pay">
+                <h4>Make your order payments</h4>
+                <p><em>Follow the steps bellow to make payments for your orders</em></p>
+                <div class="customer-make-order__content-pay-steps">
+                    <div class="customer-make-order__content-pay-steps-left">
+                        <ul>
+                            <li>Go to Mpesa</li>
+                            <li>Lipa na Mpesa</li>
+                            <li>Enter phone number <em>0719531828</em></li>
+                            <li>Enter your pin to complete your transactions</li>
+                        </ul>
+                    </div>
+                    <div class="customer-make-order__content-pay-steps-right">
+                        <button class="btn-find closeMap">Got it</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="categories hidden">
+        <div class="categories__content">
+            <div class="categories__content-icon">
+                <button class="btn-find btnModalClose">Cancel</button>
+            </div>
+            <div class="categories__content-details">
+                <h4>Help us take anywhere</h4>
+                <p>Let us pick you and take anywhere you wish to, help EA Lamdah <em>Beta</em></p>
+            </div>
+            <div class="categories__content-links">
+                <ul class="linksCat">
+                    <li>
+                        <a href="296b5f3742a93a5b58b87a30a4c40dfa" class="linkCat2">Home</a>
+                    </li>
+                    <li>
+                        <a href="#section--3" class="linkCat">Plans & pricing</a>
+                    </li>
+                    <li>
+                        <a href="024f603f1d3a39434d975d7852948330" class="linkCat2">Products</a>
+                    </li>
+                    <li>
+                        <a href="ed756525747bfae903a37c6001b8ae86" class="linkCat2">Learn</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="categories__content-note">
+                <p><em>East Africa Housing Limited</em></p>
+            </div>
+        </div>
+    </div>
+
+
+
+    <script src="7fa79c035e5d9afee5bb9d24fa6b55bf" async="" defer=""></script>
+    <script src="6da12a3b7126380e5b116143749fb654"></script>
+    <script src="8f76acb4f98770226521850c2e5c75a7"></script>
+    <script src="32597ece478f8a586cbadb7bb08aba21"></script>
+    <script src="955102ff82fa0a944db6d09010aa29ca"></script>
+    <script src="efe9bb0a0e913089c9902ea686dfa005"></script>
+    <script src="4a22209e9062e7abe9990adf30581500"></script>
+    <script src="b68b35669e4efe551fa8fcf963e92804"></script>
+    <script src="e80ba302629fd712fa0e165adf1d95f8"></script>
+</body>
+
+</html>

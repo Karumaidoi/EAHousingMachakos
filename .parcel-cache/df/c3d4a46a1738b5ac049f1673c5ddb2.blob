@@ -1,0 +1,546 @@
+<!DOCTYPE html>
+<html lang="en" manifest="">
+<head>
+
+    <!--replace with any of your main title of your webpage-->
+
+    <title>East Africa housing Company &mdash; An eCommerce for all your housing requirements</title>
+
+    <!--metadata content should appear here-->
+    <meta charset="UTF-8">
+    <meta name="description" content="Coding Spree for web developers">
+    <meta name="Keywords" content="Coding, Developement, Coding Spree">
+
+    <!--replace with any of your fontface your design is going to use! Strictly from Google Fonts-->
+
+    <link rel="preconnect" href="d496b863e69004c06c7c0702c967773a">
+        <link href="e2b75b3b73bce9d099fc072cf5f16ab7" rel="stylesheet"><link rel="preconnect" href="d496b863e69004c06c7c0702c967773a">
+        <link href="7f49851bbb6c0c0293802dac05863b72" rel="stylesheet"> 
+        <style data-parcel-key="2815b4986f09a350c0be9e1ba06bacf8">
+            @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+            </style> 
+
+<link rel="preconnect" href="d496b863e69004c06c7c0702c967773a">
+<link href="c14d90684851a84b64cefca7f8b1ff59" rel="stylesheet">
+    
+
+    <!--replace with any of your icomoon icons path folder-->
+    <link rel="stylesheet" href="da295f1cc0ae06ce2f6fb4170171c7e6">
+
+    <script src="5adc81417cda7fd81ad68a3d0a44e436"></script>
+    <link src="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="41c5f740a4900c245ad84063ce832bd5" rel="stylesheet" type="text/css">
+
+    <script src="5bba63b82134685b44730440a60fd4e8"></script>
+    <script src="9fb66887bc811f86a6756667eb1be519" crossorigin="anonymous"></script>
+
+
+
+    <!--replace with any of your shortcut icon-->
+    <link rel="shortcut icon" type="img/png" href="c19b7de5e0c3095b98885d6465584d4f">
+
+    <!--replace with any of your css layout folder/path-->
+    <link rel="stylesheet" href="173cb0553bdc0f0f24748e1dde12196a">
+
+    <link rel="stylesheet" href="614fd61955813f21c713c62ace067820" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin="">
+      <script defer="" src="5fbb56940637a68ff786f57a358e8904" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
+      <script defer="" src="18868f8ec3a99cc4bcd47bc14ef49ff9"></script>
+
+</head>
+
+<!--This is the part of the page that will be visible within your Website.
+    Replace the content according to the any of layout of your choice!-->
+<body>
+    <div class="toasts anim"></div>
+
+    <div class="back-to-top">
+        <div class="back-to-top-icon">
+            <svg>
+                <use xlink:href="bbda510992ea9274a06ff60d6ae43071"></use>
+            </svg>
+        </div>
+    </div>
+
+    <header class="header" id="header">
+        <div class="header-nav">
+            <div class="header-nav__top">
+                <div class="header-nav__top-left">
+                    <div class="header-nav__top-left-link">
+                        <a href="849947696645917f696e8a9e56577a9f">
+                            <img src="f384270eddc51ba30ce8330d274ef965" alt="East Africa Homes">
+                            <div class="content">
+                                <h2 class="heading-secondary">Made for East Africa<sup>TM</sup></h2>
+                                <p>connecting buyers with East African Suppliers</p>
+                            </div>  
+                        </a>
+                    </div>
+                    <div class="header-nav__top-left-textlink">
+                        <!-- <a href="#section--3" class="secLink">Product Directory</a> -->
+                    </div>
+                </div>
+
+                <div class="header-nav__top-right">
+                    <div class="header-nav__top-right-links">
+                        <ul>
+                            <li class="signin">
+                                <a href="#">Sign in</a>
+                            </li>
+                            <li class="joinfree">
+                                <a href="#">Join Free</a>
+                            </li>
+                            <li>
+                                <a href="8ec928aacb4547a8df9c4c434d69ce9c">For Buyer</a>
+                                <!-- <svg>
+                                    <use xlink:href="/css/sprite.svg#icon-arrow_drop_down"></use>
+                                </svg> -->
+                            </li>
+                            <li>
+                                <a href="8ec928aacb4547a8df9c4c434d69ce9c">For Suppliers</a>
+                                <!-- <svg>
+                                    <use xlink:href="/css/sprite.svg#icon-arrow_drop_down"></use>
+                                </svg> -->
+                            </li>
+
+                            <li>
+                                <a href="#" class="prods">
+                                <svg>
+                                    <use xlink:href="ff2be9d92c46dc6fffe1016e0097a0f2"></use>
+                                </svg>
+                                </a>
+                                <span>0</span>
+
+                            </li>
+                            <li>
+                               <a href="c1308607cf3d2f457f46f0330cb75698" target="_blank" rel="noopener noreferrer">
+                                <svg>
+                                    <use xlink:href="c6f2cfa0efe3f6321c65410cb654aaee"></use>
+                                </svg>
+                                <p>Get Apps</p>
+                               </a> 
+                            </li>
+
+                            <li>
+                                <a href="#">English</a>
+                                <!-- <svg>
+                                    <use xlink:href="/css/sprite.svg#icon-arrow_drop_down"></use>
+                                </svg> -->
+                            </li>
+                            
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="header-nav__bottom">
+                <div class="header-nav__bottom-left">
+                    
+                        <div class="header-nav__bottom-left-categories">
+                            <svg>
+                                <use xlink:href="f356147fb179ef1d1a9af4b9a8509cb1"></use>
+                            </svg>
+                            <p>Categories</p>
+                        </div>
+                            <svg class="icon">
+                                <use xlink:href="fdd2d12638a23321c8d095ca32e662ff"></use>
+                            </svg>
+                </div>
+                
+                <div class="header-nav__bottom-center">
+                    <form action="#">
+                        <div class="left">
+                            <p>Products</p>
+                            <!-- <svg>
+                                <use xlink:href="/css/sprite.svg#icon-arrow_drop_down"></use>
+                            </svg> -->
+                        </div>
+                        <div class="input">
+                            <input type="text" placeholder="Enter a keyword to search a product">
+                        </div>
+                        
+                        <div class="header-nav__bottom-center-icons">
+                            <svg>
+                                <use xlink:href="0da2ee734b2be71fc53d96e1fca262f2"></use>
+                            </svg>
+                            <div class="icon-box">
+                                <svg class="icon-search">
+                                    <use xlink:href="8550fdf9e719bec89c7afddc3b298b83"></use>
+                                </svg>
+                            </div>
+                        </div>
+                            
+                    </form>
+
+                   </div>
+
+                   <div class="header-nav__bottom-right">
+                    <div class="header-nav__bottom-right-add">
+                        <svg>
+                            <use xlink:href="23c4d5770442b8c28f5e65edc7e3d2a0"></use>
+                        </svg>
+                        <p>Post Product Request</p>
+                    </div>
+                </div>
+                    </div>
+                </div>
+    </header>
+
+
+    <section class="section-products2" id="sectioncards">
+        <div class="section-products2__grid">
+            <div class="section-products2__grid-content">
+                <div class="section-products2__grid-content-img">
+                    <img src="b1a38e738b5b92f36488a3ee4e677a26" alt="Housing">
+                </div>
+                <div class="section-products2__grid-content-details">
+                    <h4>Mania Houses</h4>
+                    <p>Brighter and better future..We are proud to bring you best
+                        of all housing products at all time...Kudos!
+                    </p>
+                </div>
+                <div class="section-products2__grid-content-btn">
+                    <button class="btn btn-white">Make an order</button>
+                    <svg class="like">
+                        <use xlink:href="5291906b64a55a8107728e12d0d96f22" class="heart"></use>
+                    </svg>
+                </div>
+            </div>
+
+            <div class="section-products2__grid-content">
+                <div class="section-products2__grid-content-img">
+                    <img src="909edab09fb2e049e6e2dc8d231a3295" alt="Housing">
+                </div>
+                <div class="section-products2__grid-content-details">
+                    <h4>Wiley Houses</h4>
+                    <p>Brighter and better future..We are proud to bring you best
+                        of all housing products at all time...Kudos!
+                    </p>
+                </div>
+                <div class="section-products2__grid-content-btn">
+                    <button class="btn btn-white">Make an order</button>
+                    <svg class="like">
+                        <use xlink:href="5291906b64a55a8107728e12d0d96f22" class="heart"></use>
+                    </svg>
+                </div>
+            </div>
+
+            <div class="section-products2__grid-content">
+                <div class="section-products2__grid-content-img">
+                    <img src="cf83956e8ef72acef732f0bcede4773e" alt="Housing">
+                </div>
+                <div class="section-products2__grid-content-details">
+                    <h4>Nelsons Upper Square</h4>
+                    <p>Brighter and better future..We are proud to bring you best
+                        of all housing products at all time...Kudos!
+                    </p>
+                </div>
+                <div class="section-products2__grid-content-btn">
+                    <button class="btn btn-white">Make an order</button>
+                    <svg class="like">
+                        <use xlink:href="5291906b64a55a8107728e12d0d96f22" class="heart"></use>
+                    </svg>
+                </div>
+            </div>
+
+            <div class="section-products2__grid-content">
+                <div class="section-products2__grid-content-img">
+                    <img src="31bda50c3f91290d0af11ede896a62a5" alt="Housing">
+                </div>
+                <div class="section-products2__grid-content-details">
+                    <h4>EA Mason Acre</h4>
+                    <p>Brighter and better future..We are proud to bring you best
+                        of all housing products at all time...Kudos!
+                    </p>
+                </div>
+                <div class="section-products2__grid-content-btn">
+                    <button class="btn btn-white">Make an order</button>
+                    <svg class="like">
+                        <use xlink:href="5291906b64a55a8107728e12d0d96f22" class="heart"></use>
+                    </svg>
+                </div>
+            </div>
+
+            <div class="section-products2__grid-content">
+                <div class="section-products2__grid-content-img">
+                    <img src="7deb58f661f8b68f2810c7ad88b077ec" alt="Housing">
+                </div>
+                <div class="section-products2__grid-content-details">
+                    <h4>Blue Mall Houses</h4>
+                    <p>Brighter and better future..We are proud to bring you best
+                        of all housing products at all time...Kudos!
+                    </p>
+                </div>
+                <div class="section-products2__grid-content-btn">
+                    <button class="btn btn-white">Make an order</button>
+                    <svg class="like">
+                        <use xlink:href="5291906b64a55a8107728e12d0d96f22" class="heart"></use>
+                    </svg>
+                </div>
+            </div>
+
+            <div class="section-products2__grid-content">
+                <div class="section-products2__grid-content-img">
+                    <img src="6848ac39408a0e9181cbf4bc55b27680" alt="Housing">
+                </div>
+                <div class="section-products2__grid-content-details">
+                    <h4>Mania Houses</h4>
+                    <p>Brighter and better future..We are proud to bring you best
+                        of all housing products at all time...Kudos!
+                    </p>
+                </div>
+                <div class="section-products2__grid-content-btn">
+                    <button class="btn btn-white">Make an order</button>
+                    <svg class="like">
+                        <use xlink:href="5291906b64a55a8107728e12d0d96f22" class="heart"></use>
+                    </svg>
+                </div>
+            </div>
+
+            <div class="section-products2__grid-content">
+                <div class="section-products2__grid-content-img">
+                    <img src="3177b19850a60ea157758943ae07dd7f" alt="Housing">
+                </div>
+                <div class="section-products2__grid-content-details">
+                    <h4>Wiley Houses</h4>
+                    <p>Brighter and better future..We are proud to bring you best
+                        of all housing products at all time...Kudos!
+                    </p>
+                </div>
+                <div class="section-products2__grid-content-btn">
+                    <button class="btn btn-white">Make an order</button>
+                    <svg class="like">
+                        <use xlink:href="5291906b64a55a8107728e12d0d96f22" class="heart"></use>
+                    </svg>
+                </div>
+            </div>
+
+            <div class="section-products2__grid-content">
+                <div class="section-products2__grid-content-img">
+                    <img src="b6f3b17ca385469efb633699ba184374" alt="Housing">
+                </div>
+                <div class="section-products2__grid-content-details">
+                    <h4>Nelsons Upper Square</h4>
+                    <p>Brighter and better future..We are proud to bring you best
+                        of all housing products at all time...Kudos!
+                    </p>
+                </div>
+                <div class="section-products2__grid-content-btn">
+                    <button class="btn btn-white">Make an order</button>
+                    <svg class="like">
+                        <use xlink:href="5291906b64a55a8107728e12d0d96f22" class="heart"></use>
+                    </svg>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section class="section-EA">
+        <div class="section-EA__content">
+            <div class="section-EA__content-logo">
+                <img src="f384270eddc51ba30ce8330d274ef965" alt="cevo">
+            </div>
+            <h4>Housing Products for East Africa</h4>
+            <p>
+                    EA Cloud for teams gives you access to the complete set of Adobe EA apps plus exclusive features designed to help your team get work done. You get a web-based Admin Console that makes it easy to manage licences, 
+                    advanced 24/7 tech support and 1:1 Expert Services sessions.
+            </p>
+            <a href="849947696645917f696e8a9e56577a9f" class="plans">see EA plans & pricings</a>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="footer-home">
+            <a href="#header" class="home">
+            <svg class="iconplan2">
+                <use xlink:href="9ce4e82113a724e15f8bcc98e2d310da"></use>
+            </svg>
+            Home</a>
+        </div>
+        <h4>Meet our Curators to join our community</h4>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sint vero quae temporibus debitis aliquid repellendus necessitatibus officiis nam nostrum suscipit, 
+             amet id architecto facere?
+        </p>
+        <div class="footer__links">
+            <ul>
+                <!-- <li>
+                    <a href="#" class="contact">Contact Us</a>
+                </li> -->
+                <!-- <li>
+                    <a href="#faq" class="faq">FAQ</a>
+                </li>
+                <li>
+                    <a href="#reviews" class="reviews">Reviews</a>
+                </li> -->
+                <li>
+                    <a href="0ac9f38f203fd6260665aca240a9cbb8" target="_blank" rel="noopener noreferrer">Blog</a>
+                </li>
+                <li>
+                    <a href="#">Privacy Policy</a>
+                </li>
+            </ul>
+        </div>
+        <p>&copy; copyright East Africa Housing Limited 2021. All Rights Reserved.</p>
+    </footer>
+
+
+    <div class="prod-request-modal hidden">
+        <div class="prod-request-modal__content">
+            <i class="fa fa-times closeBtn" aria-hidden="true"></i>
+            <h4>Request your product</h4>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. At earum obcaecati 
+                molestiae accusantium facilis</p>
+                <textarea name="textarea" id="" cols="10" rows="2" class="textarea" style="b3d8f69fbcb400502f358bb566e096d0" placeholder="Message EA Housing Limited"></textarea>
+
+            <div class="prod-request-modal__content-find">
+                <h4>Find, Match and Grab</h4>
+                <p><em>Help siri to choose and order your products according
+                    to your interests.
+                </em></p>
+                <div class="prod-request-modal__content-find-btns">
+                    <button class="btn int">Terrazo</button>
+                    <button class="btn int">Tiles</button>
+                    <button class="btn int">Black cushoty</button>
+                    <button class="btn int">Mumble</button>
+                    <button class="btn int">Timber</button>
+                    <button class="btn int">Aluminium Cushoty</button>
+                    <button class="btn int">Black Mamba</button>
+                </div>
+            </div>
+
+            <div class="prod-request-modal__content-spinner hidden">
+                <i class="fas fa-spinner fa-spin"></i>
+                <p>Please Wait</p>
+            </div>
+            <div class="prod-request-modal__content-btn">
+                <button class="btn btn-cancel">Cancel</button>
+                <button class="btn-find">Find Order</button>
+            </div>
+
+            <div class="prod-request-modal__content-alert none">
+                <h4>We will contact you soon about the product details</h4>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque nostrum adipisci minima fuga dignissimos iusto sed nobis, deserunt exercitationem.</p>
+                <button class="btn-find align">Ok, Got it</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="sign-in-modal sendaway">
+        <div class="sign-in-modal__content transformx">
+             <i class="fa fa-times cancel" aria-hidden="true"></i>
+             <p>Sign in to</p>
+             <div class="sign-in-modal__content-comp">
+                 <img src="f384270eddc51ba30ce8330d274ef965" alt="East Africa">
+                 <h4>EA Company</h4>
+             </div>
+             <div class="sign-in-modal__content-note">
+                 <p>Log in to save your progress. We won't post anything anywhere.</p>
+             </div>
+             <div class="sign-in-modal__content-accounts">
+                <button class="btn">Sign in with Google</button>
+                <button class="btn">Sign in with Facebook</button>
+                <button class="btn">Anonymous account</button>
+                <p class="policy">By signing in you agree to our <span>terms, conditions</span> and <span>privacy policy</span></p>
+             </div>
+        </div>
+    </div>
+
+
+    <div class="customer-support usecase">
+        <div class="customer-support__content">
+            <div class="customer-support__content-top">
+                <div class="customer-support__content-top-left">
+                    <img src="59e5feb46277602c3c54aef7e3c2d526" alt="Cevo">
+                    <p>EA Housing Limited</p>
+                </div>
+                <svg class="iconDown">
+                    <use xlink:href="bbda510992ea9274a06ff60d6ae43071"></use>
+                </svg>
+            </div>
+
+                <div class="customer-support__content-center">
+                    <p>Welcome!</p>
+                    <h3>How can we help you?</h3>
+                </div>
+
+                <div class="customer-support__content-help border">
+                    <h4>Account or product support</h4>
+                    <p>Please sign in. We'll find you to connect you to the right team.</p>
+
+                    <button class="btn-help">Get started</button>
+                </div>
+
+                <div class="customer-support__content-help">
+                    <h4>Account or product support</h4>
+                    <p>Please sign in. We'll find you to connect you to the right team.</p>
+
+                    <button class="btn-help">Get started</button>
+                </div>
+                <a href="8ec928aacb4547a8df9c4c434d69ce9c">Need help with any of our products?</a>
+        </div>
+    </div>
+
+    <div class="customer-make-order hidden">
+        <div class="customer-make-order__content">
+            <div id="map"></div>
+            <div class="customer-make-order__content-pay">
+                <h4>Make your order payments</h4>
+                <p><em>Follow the steps bellow to make payments for your orders</em></p>
+                <div class="customer-make-order__content-pay-steps">
+                    <div class="customer-make-order__content-pay-steps-left">
+                        <ul>
+                            <li>Go to Mpesa</li>
+                            <li>Lipa na Mpesa</li>
+                            <li>Enter phone number <em>0719531828</em></li>
+                            <li>Enter your pin to complete your transactions</li>
+                        </ul>
+                    </div>
+                    <div class="customer-make-order__content-pay-steps-right">
+                        <button class="btn-find closeMap">Got it</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="categories hidden">
+        <div class="categories__content">
+            <div class="categories__content-icon">
+                <button class="btn-find btnModalClose">Cancel</button>
+            </div>
+            <div class="categories__content-details">
+                <h4>Help us take anywhere</h4>
+                <p>Let us pick you and take anywhere you wish to, help EA Lamdah <em>Beta</em></p>
+            </div>
+            <div class="categories__content-links">
+                <ul class="linksCat">
+                    <li>
+                        <a href="849947696645917f696e8a9e56577a9f" class="linkCat2">Home</a>
+                    </li>
+                    <li>
+                        <a href="#sectioncards" class="linkCat">Plans & pricing</a>
+                    </li>
+                    <li>
+                        <a href="8ec928aacb4547a8df9c4c434d69ce9c" class="linkCat2">Products</a>
+                    </li>
+                    <li>
+                        <a href="2382316390208d58979b45a96cb305e5" class="linkCat2">Learn</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="categories__content-note">
+                <p><em>East Africa Housing Limited</em></p>
+            </div>
+        </div>
+    </div>
+
+    <!-- <script src="/js/sliders.js"></script> -->
+    <script src="77ad73967f1d56385bae609ef427fa05"></script>
+    <script src="e06c4314ac7823bd78d9b0259b2b80a2"></script>
+      <script src="e098b2999b91705f8e24732b1d238e1a"></script>
+      <script src="f251137d6e8d0e26a4b3e5b7de8e18a5"></script>
+      <script src="d8f3c663b30d45a9068154e6715a12fc"></script>
+      <script src="4b1cbf8523f1c809edd7410ec9d90f82"></script>
+      <!-- <script src="/js/_switch.js"></script> -->
+  </body>
+  
+  </html>
