@@ -14,49 +14,41 @@
 
     <!--replace with any of your fontface your design is going to use! Strictly from Google Fonts-->
     <!-- <link rel="manifest" href="url:manifest.webmanifest"> -->
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-        <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet"><link rel="preconnect" href="https://fonts.gstatic.com">
-        <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet"> 
-        <style>
+    <link rel="preconnect" href="4a8a00904bae35c1104942c334d95ef2">
+        <link href="4f4c736fb73bd637bcc5e438b710b268" rel="stylesheet"><link rel="preconnect" href="4a8a00904bae35c1104942c334d95ef2">
+        <link href="ba33474cf3235dd39a985d41edb42121" rel="stylesheet"> 
+        <style data-parcel-key="8fbbc2f2800ccc2cd553d6fa0f03a097">
             @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
             </style> 
 
-<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+<link rel="preconnect" href="4a8a00904bae35c1104942c334d95ef2">
+<link href="dcb825b637e49c72f99dedb650c8a41f" rel="stylesheet">
     
 
     <!--replace with any of your icomoon icons path folder-->
-    <link rel="stylesheet" href="css/icon-font.css">
+    <link rel="stylesheet" href="180b0df0b69ce139882a79470dc68335">
 
-    <script src="https://use.fontawesome.com/0799a8931f.js"></script>
+    <script src="08033ba563e4b62cf6dd6bc7e053f8a0"></script>
     <link src="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
-    <link 
-  href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.css" 
-  rel="stylesheet"  type='text/css'>
+    <link href="ab27006c64719c34bf314960ac81305b" rel="stylesheet" type="text/css">
 
-    <script src="https://use.fontawesome.com/b18cc4e136.js"></script>
-    <script src="https://kit.fontawesome.com/53d7f80ee0.js" crossorigin="anonymous"></script>
+    <script src="4901e4e48033a35b6291660eb231f9a4"></script>
+    <script src="fc95bf1fe95e32a7d63f405ee3970fce" crossorigin="anonymous"></script>
 
 
 
     <!--replace with any of your shortcut icon-->
-    <link rel="shortcut icon" type="img/png" href="/img/SVG/acm.svg">
+    <link rel="shortcut icon" type="img/png" href="0fc6518ea16d629cb39a77402f595eb6">
 
     <!--replace with any of your css layout folder/path-->
    
 
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
-  integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
-  crossorigin=""/>
-    <script
-    defer
-    src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
-    integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
-    crossorigin=""></script>
-    <script defer src="/js/mapty.js"></script>
-    <script defer src="/js/sliders.js"></script>
+    <link rel="stylesheet" href="c83c5f62ec284552ebd60fcc880a3edf" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin="">
+    <script defer="" src="a9cf643e1a290fac72e478b7c5dd7db2" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
+    <script defer="" src="a7148fd2f121324c0c31ea6d01924243"></script>
+    <script defer="" src="d885a91e1ba29c8a1ea7133aa9b4f2ce"></script>
 
-    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="beea01dad795cd88139d4e963f11a221">
 
 
 </head>
@@ -70,7 +62,7 @@
     <div class="back-to-top">
         <div class="back-to-top-icon">
             <svg>
-                <use xlink:href="/css/sprite.svg#icon-chevron-left"></use>
+                <use xlink:href="d2993c9c4c50d1975b3f729a156131b4"></use>
             </svg>
         </div>
     </div>
@@ -86,8 +78,8 @@
             <div class="header-nav__top">
                 <div class="header-nav__top-left">
                     <div class="header-nav__top-left-link">
-                        <a href="index.html">
-                            <img src="/img/SVG/cevo.svg" alt="East Africa Homes">
+                        <a href="33edaf6d12d13fd3397234e18ac8a5e2">
+                            <img src="eb3843506f18505bd519ee65211bc7a1" alt="East Africa Homes">
                             <div class="content">
                                 <h2 class="heading-secondary">Made for East Africa<sup>TM</sup></h2>
                                 <p>connecting buyers with East African Suppliers</p>
@@ -109,13 +101,13 @@
                                 <a href="#">Join Free</a>
                             </li>
                             <li>
-                                <a href="products.html">For Buyer</a>
+                                <a href="d77d5e42579963a6e765c9fbcad90d6d">For Buyer</a>
                                 <!-- <svg>
                                     <use xlink:href="/css/sprite.svg#icon-arrow_drop_down"></use>
                                 </svg> -->
                             </li>
                             <li>
-                                <a href="products.html">For Suppliers</a>
+                                <a href="d77d5e42579963a6e765c9fbcad90d6d">For Suppliers</a>
                                 <!-- <svg>
                                     <use xlink:href="/css/sprite.svg#icon-arrow_drop_down"></use>
                                 </svg> -->
@@ -124,16 +116,16 @@
                             <li>
                                 <a href="#" class="prods">
                                 <svg>
-                                    <use xlink:href="/css/sprite.svg#icon-shopping-basket"></use>
+                                    <use xlink:href="3c4c4a6ff2cb052bcec964ba4599a694"></use>
                                 </svg>
                                 </a>
                                 <span>0</span>
 
                             </li>
                             <li>
-                               <a href="https://play.google.com/store/apps/details?id=com.mentalwellnesscenter" target="_blank" rel="noopener noreferrer">
+                               <a href="7b3418b9de5947a328f55da27425a2a5" target="_blank" rel="noopener noreferrer">
                                 <svg>
-                                    <use xlink:href="/css/sprite.svg#icon-apps"></use>
+                                    <use xlink:href="0b847cbba1c4670337ea194b1b2b09ab"></use>
                                 </svg>
                                 <p>Get Apps</p>
                                </a> 
@@ -156,12 +148,12 @@
                     
                         <div class="header-nav__bottom-left-categories">
                             <svg>
-                                <use xlink:href="/css/sprite.svg#icon-bars"></use>
+                                <use xlink:href="50f0716a447ae49d1ede160c70bc7ba8"></use>
                             </svg>
                             <p>Categories</p>
                         </div>
                             <svg class="icon">
-                                <use xlink:href="/css/sprite.svg#icon-arrow_drop_down"></use>
+                                <use xlink:href="9d423000343dcd845a046604fa1e22cf"></use>
                             </svg>
                 </div>
                 
@@ -179,11 +171,11 @@
                         
                         <div class="header-nav__bottom-center-icons">
                             <svg>
-                                <use xlink:href="/css/sprite.svg#icon-camera"></use>
+                                <use xlink:href="e4dac8d74c884eae1a07233847ca3ffd"></use>
                             </svg>
                             <div class="icon-box">
                                 <svg class="icon-search">
-                                    <use xlink:href="/css/sprite.svg#icon-search"></use>
+                                    <use xlink:href="7c174b963807195e7dfa219223354ad7"></use>
                                 </svg>
                             </div>
                         </div>
@@ -195,7 +187,7 @@
                    <div class="header-nav__bottom-right">
                     <div class="header-nav__bottom-right-add">
                         <svg>
-                            <use xlink:href="/css/sprite.svg#icon-target-arrow"></use>
+                            <use xlink:href="caf3ae7b904721f90c898f49720936f5"></use>
                         </svg>
                         <p>Post Product Request</p>
                     </div>
@@ -212,7 +204,7 @@
                     <div class="slide-products__slider-content">
                         <div class="slide-products__slider-content-left">
                             <div class="content-1">
-                                <img src="/img/company/img1.jpg" alt="Terrazo" class="img">
+                                <img src="bc30c81c7116594fdecfcebcf7d84b2d" alt="Terrazo" class="img">
                                 <p>&ldquo; Meet the nature of our beauty with proper interior designs
                                     and lightings &rdquo;
                                 </p>
@@ -220,19 +212,19 @@
                             </div>
 
                             <div class="content-2">
-                                <img src="/img/company/img2.jpg" alt="Terrazo" class="img">
+                                <img src="919b8fe6e61ea526c1298543a96d0232" alt="Terrazo" class="img">
                             </div>
 
                             <div class="content-2">
-                                <img src="/img/company/img3.jpg" alt="Terrazo" class="img">
+                                <img src="7e8759e1eaa18880cbf1d1dfc82f570d" alt="Terrazo" class="img">
                             </div>
 
                             <div class="content-2">
-                                <img src="/img/company/img4.jpg" alt="Terrazo" class="img">
+                                <img src="6d211d9ab329947e1de9f8ccbe87681a" alt="Terrazo" class="img">
                             </div>
 
                             <div class="content-2">
-                                <img src="/img/company/img5.jpg" alt="Terrazo" class="img">
+                                <img src="ea0f00827bec9286e7d7aa40bc9652f9" alt="Terrazo" class="img">
                             </div>
 
                         </div>
@@ -241,7 +233,7 @@
                                 <div class="slide-products__slider-content-right-heading-state">
                                     <p>Regular</p>
                                     <svg>
-                                        <use xlink:href="/css/sprite.svg#icon-arrow_drop_down"></use>
+                                        <use xlink:href="9d423000343dcd845a046604fa1e22cf"></use>
                                     </svg>
                                 </div>
                                 <div class="slide-products__slider-content-right-heading-price">
@@ -285,26 +277,26 @@
                     <div class="slide-products__slider-content">
                         <div class="slide-products__slider-content-left">
                             <div class="content-1">
-                                <img src="/img/company/img6.jpg" alt="Terrazo" class="img">
+                                <img src="ebb457a2a34000f6e71fac13db6db87f" alt="Terrazo" class="img">
                                 <p>&ldquo; It's only from us. Find.Match.Buy...Delivered anywhere, anytime with anyone &rdquo;
                                 </p>
                                 <span>East Africa Housing Limited</span>
                             </div>
 
                             <div class="content-2">
-                                <img src="/img/company/img7.jpg" alt="Terrazo" class="img">
+                                <img src="8334093f4b6cc86a630268969b2d2814" alt="Terrazo" class="img">
                             </div>
 
                             <div class="content-2">
-                                <img src="/img/company/img8.jpg" alt="Terrazo" class="img">
+                                <img src="a3a213e00e903f3289a61ab56d127b76" alt="Terrazo" class="img">
                             </div>
 
                             <div class="content-2">
-                                <img src="/img/company/img9.jpg" alt="Terrazo" class="img">
+                                <img src="fff3c78d1951d7e17aeb4384a61a591f" alt="Terrazo" class="img">
                             </div>
 
                             <div class="content-2">
-                                <img src="/img/company/img5.jpg" alt="Terrazo" class="img">
+                                <img src="ea0f00827bec9286e7d7aa40bc9652f9" alt="Terrazo" class="img">
                             </div>
 
                         </div>
@@ -313,7 +305,7 @@
                                 <div class="slide-products__slider-content-right-heading-state">
                                     <p>Premium</p>
                                     <svg>
-                                        <use xlink:href="/css/sprite.svg#icon-arrow_drop_down"></use>
+                                        <use xlink:href="9d423000343dcd845a046604fa1e22cf"></use>
                                     </svg>
                                 </div>
                                 <div class="slide-products__slider-content-right-heading-price">
@@ -356,26 +348,26 @@
                     <div class="slide-products__slider-content">
                         <div class="slide-products__slider-content-left">
                             <div class="content-1">
-                                <img src="/img/company/img4.jpg" alt="Terrazo" class="img">
+                                <img src="6d211d9ab329947e1de9f8ccbe87681a" alt="Terrazo" class="img">
                                 <p>&ldquo; Find best services on the go...It's as easy as ABC... &rdquo;
                                 </p>
                                 <span>East Africa Housing Limited</span>
                             </div>
 
                             <div class="content-2">
-                                <img src="/img/company/img11.jpg" alt="Terrazo" class="img">
+                                <img src="884f8864fdb5faae05c3ebcea59eb17a" alt="Terrazo" class="img">
                             </div>
 
                             <div class="content-2">
-                                <img src="/img/company/img12.jpg" alt="Terrazo" class="img">
+                                <img src="cae3c035449bd457e32af2610a1a7140" alt="Terrazo" class="img">
                             </div>
 
                             <div class="content-2">
-                                <img src="/img/company/img13.jpg" alt="Terrazo" class="img">
+                                <img src="4d5c72616c0dd20e93ddaefc58df7342" alt="Terrazo" class="img">
                             </div>
 
                             <div class="content-2">
-                                <img src="/img/company/img14.jpg" alt="Terrazo" class="img">
+                                <img src="6890a8324b3cdefd12cad444c432b69c" alt="Terrazo" class="img">
                             </div>
 
                         </div>
@@ -384,7 +376,7 @@
                                 <div class="slide-products__slider-content-right-heading-state">
                                     <p>PRO</p>
                                     <svg>
-                                        <use xlink:href="/css/sprite.svg#icon-arrow_drop_down"></use>
+                                        <use xlink:href="9d423000343dcd845a046604fa1e22cf"></use>
                                     </svg>
                                 </div>
                                 <div class="slide-products__slider-content-right-heading-price">
@@ -427,13 +419,13 @@
                 <div class="buttons">
                     <button class="btn__slider btn__slider-left">
                         <svg>
-                            <use xlink:href="/css/sprite.svg#icon-chevron-left"></use>
+                            <use xlink:href="d2993c9c4c50d1975b3f729a156131b4"></use>
                         </svg>
                     </button>
     
                     <button class="btn__slider btn__slider-right">
                         <svg>
-                            <use xlink:href="/css/sprite.svg#icon-chevron-right"></use>
+                            <use xlink:href="765d3ab2d3133fd5be02a9719a3cdf9e"></use>
                         </svg>
                     </button>
                 </div>       
@@ -448,7 +440,7 @@
                 <div class="section-grid-feature">
                     <div class="section-grid-feature-icon">
                         <svg class="iconplan">
-                            <use xlink:href="/css/sprite.svg#icon-globe"></use>
+                            <use xlink:href="706bdcb89de21393f46ac5fadec5204b"></use>
                         </svg>
                     </div>
 
@@ -461,7 +453,7 @@
                 <div class="section-grid-feature">
                     <div class="section-grid-feature-icon">
                         <svg class="iconplan">
-                            <use xlink:href="/css/sprite.svg#icon-trophy"></use>
+                            <use xlink:href="063f66b1097eab703e67380b982a0979"></use>
                         </svg>
                     </div>
 
@@ -476,7 +468,7 @@
                 <div class="section-grid-feature">
                     <div class="section-grid-feature-icon">
                         <svg class="iconplan">
-                            <use xlink:href="/css/sprite.svg#icon-location"></use>
+                            <use xlink:href="b7c3586aafbefe526bcff83499c059ef"></use>
                         </svg>
                     </div>
 
@@ -491,7 +483,7 @@
                 <div class="section-grid-feature">
                     <div class="section-grid-feature-icon">
                         <svg class="iconplan">
-                            <use xlink:href="/css/sprite.svg#icon-target-arrow"></use>
+                            <use xlink:href="caf3ae7b904721f90c898f49720936f5"></use>
                         </svg>
                     </div>
 
@@ -506,7 +498,7 @@
                 <div class="section-grid-feature">
                     <div class="section-grid-feature-icon">
                         <svg class="iconplan">
-                            <use xlink:href="/css/sprite.svg#icon-stats"></use>
+                            <use xlink:href="c20ac12d6a2eb074a720159638ce9a7c"></use>
                         </svg>
                     </div>
 
@@ -521,7 +513,7 @@
                 <div class="section-grid-feature">
                     <div class="section-grid-feature-icon">
                         <svg class="iconplan">
-                            <use xlink:href="/css/sprite.svg#icon-lock-rounded"></use>
+                            <use xlink:href="cb50660ff3d42ea43b3f9af4f38e8bda"></use>
                         </svg>
                     </div>
 
@@ -661,7 +653,7 @@
                 accusantium inventore voluptatem? Vero, culpa.
             </p>
             <div class="user">
-                <img src="/img/company/img1.jpg" alt="Francis" class="userImage">
+                <img src="bc30c81c7116594fdecfcebcf7d84b2d" alt="Francis" class="userImage">
                 <div class="username">
                     <h6 class="username1">Francis Alego</h6>
                     <p class="userrole">Machakos University</p>
@@ -672,31 +664,31 @@
         <div class="section-testimonials-brands">
             <div class="section-testimonials-brands__content">
                 <div class="section-testimonials-brands__content-brand">
-                    <img src="/img/SVG/adobe.svg" alt="Adobe">
+                    <img src="e5ff65837e02fb701c3b1be312181760" alt="Adobe">
                     <h5>Adobe Creative Cloud</h5>
                     <p>eaque similique ducimus quas magni accusantium</p>
                 </div>
 
                 <div class="section-testimonials-brands__content-brand">
-                    <img src="/img/SVG/microsoft.svg" alt="Adobe">
+                    <img src="a7d0ea1902f1dc8afbf77dea8d70a7b8" alt="Adobe">
                     <h5>Microsoft Company INC</h5>
                     <p>eaque similique ducimus quas magni accusantium</p>
                 </div>
 
                 <div class="section-testimonials-brands__content-brand">
-                    <img src="/img/SVG/stack.svg" alt="Adobe">
+                    <img src="343fa6c65b7194fadfb4cf006f6404c9" alt="Adobe">
                     <h5>Uber Eats INC</h5>
                     <p>eaque similique ducimus quas magni accusantium</p>
                 </div>
 
                 <div class="section-testimonials-brands__content-brand">
-                    <img src="/img/SVG/tesla.svg" alt="Adobe">
+                    <img src="fba69ec7480c979cda7f7dcb8ace8c28" alt="Adobe">
                     <h5>Tesla Company</h5>
                     <p>eaque similique ducimus quas magni accusantium</p>
                 </div>
 
                 <div class="section-testimonials-brands__content-brand">
-                    <img src="/img/SVG/tensorflow.svg" alt="Adobe">
+                    <img src="332615317a97acd6849984613a5a3e27" alt="Adobe">
                     <h5>Tensor flow</h5>
                     <p>eaque similique ducimus quas magni accusantium</p>
                 </div>
@@ -745,7 +737,7 @@
     <section class="section-EA">
         <div class="section-EA__content">
             <div class="section-EA__content-logo">
-                <img src="/img/SVG/cevo.svg" alt="cevo">
+                <img src="eb3843506f18505bd519ee65211bc7a1" alt="cevo">
             </div>
             <h4>Housing Products for East Africa</h4>
             <p>
@@ -760,7 +752,7 @@
         <div class="footer-home">
             <a href="#header" class="home">
             <svg class="iconplan2">
-                <use xlink:href="/css/sprite.svg#icon-home"></use>
+                <use xlink:href="c338596bc2fcdc082b00cc61ed3895b2"></use>
             </svg>
             Home</a>
         </div>
@@ -780,7 +772,7 @@
                     <a href="#reviews" class="reviews">Reviews</a>
                 </li>
                 <li>
-                    <a href="https://www.facebook.com/fairdeal.terrazzo.1" target="_blank" rel="noopener noreferrer">Blog</a>
+                    <a href="136554e41b296adcd81a758f763deb83" target="_blank" rel="noopener noreferrer">Blog</a>
                 </li>
                 <li>
                     <a href="#">Privacy Policy</a>
@@ -797,7 +789,7 @@
             <h4>Request your product</h4>
             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. At earum obcaecati 
                 molestiae accusantium facilis</p>
-                <textarea name="textarea" id="" cols="10" rows="10" class="textarea" style="height: 100px"></textarea>
+                <textarea name="textarea" id="" cols="10" rows="10" class="textarea" style="ef027609abc7e1b66597a07952add9dc"></textarea>
 
             <div class="prod-request-modal__content-find">
                 <h4>Find, Match and Grab</h4>
@@ -837,7 +829,7 @@
              <i class="fa fa-times cancel" aria-hidden="true"></i>
              <p>Sign in to</p>
              <div class="sign-in-modal__content-comp">
-                 <img src="/img/SVG/cevo.svg" alt="East Africa">
+                 <img src="eb3843506f18505bd519ee65211bc7a1" alt="East Africa">
                  <h4>EA Company</h4>
              </div>
              <div class="sign-in-modal__content-note">
@@ -858,11 +850,11 @@
         <div class="customer-support__content">
             <div class="customer-support__content-top">
                 <div class="customer-support__content-top-left">
-                    <img src="/img/SVG/adobe.svg" alt="Cevo">
+                    <img src="e5ff65837e02fb701c3b1be312181760" alt="Cevo">
                     <p>EA Housing Limited</p>
                 </div>
                 <svg class="iconDown">
-                    <use xlink:href="/css/sprite.svg#icon-chevron-left"></use>
+                    <use xlink:href="d2993c9c4c50d1975b3f729a156131b4"></use>
                 </svg>
             </div>
 
@@ -884,7 +876,7 @@
 
                     <button class="btn-help">Get started</button>
                 </div>
-                <a href="products.html">Need help with any of our products?</a>
+                <a href="d77d5e42579963a6e765c9fbcad90d6d">Need help with any of our products?</a>
         </div>
     </div>
 
@@ -923,16 +915,16 @@
             <div class="categories__content-links">
                 <ul class="linksCat">
                     <li>
-                        <a href="index.html" class="linkCat2">Home</a>
+                        <a href="33edaf6d12d13fd3397234e18ac8a5e2" class="linkCat2">Home</a>
                     </li>
                     <li>
                         <a href="#section--3" class="linkCat">Plans & pricing</a>
                     </li>
                     <li>
-                        <a href="products.html" class="linkCat2">Products</a>
+                        <a href="d77d5e42579963a6e765c9fbcad90d6d" class="linkCat2">Products</a>
                     </li>
                     <li>
-                        <a href="learn.html" class="linkCat2">Learn</a>
+                        <a href="d4b81279346210c8a73e64dca90475fe" class="linkCat2">Learn</a>
                     </li>
                 </ul>
             </div>
@@ -942,15 +934,15 @@
         </div>
     </div>
 
-    <script src="https://apis.google.com/js/platform.js" async defer></script>
-  <script src="/js/topbar.js"></script>
-  <script src="/js/acc.js"></script>
-  <script src="/js/cat.js"></script>
-    <script src="/js/nav.js"></script>
-    <script src="/js/modal.js"></script>
-    <script src="/js/ckeditor/ckeditor.js"></script>
-    <script src="/js/textarea.js"></script>
-    <script src="/js/script.js"></script>
+    <script src="39265829c39439d4b47a9095f253097c" async="" defer=""></script>
+  <script src="3526c1d318e5a7b71cc72639cd51ce92"></script>
+  <script src="33926ecc30e2eff84233cba9e01e2781"></script>
+  <script src="f9eb5083f22276b3f8cdadc2a67bcb77"></script>
+    <script src="ac289ff3ad308262781b40d8e694ba30"></script>
+    <script src="fa2a3bb2619aaac06567b8f2f99457aa"></script>
+    <script src="d8dd9e1d250d9e121daa60a35e52ac8c"></script>
+    <script src="eca12ae6de66bbd98965891ddd5229f5"></script>
+    <script src="0bc1718344156e72b1197b5a7ee67992"></script>
 </body>
 
 </html>
